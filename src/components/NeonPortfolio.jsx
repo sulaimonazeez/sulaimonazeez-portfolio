@@ -125,8 +125,17 @@ export default function NeonPortfolio() {
       repo: "https://github.com/sulaimonazeez",
       image: "https://cdn.dribbble.com/userupload/39810389/file/original-338665626b099d522954de99a3d8af2c.png?format=webp&resize=1000x750&vertical=center",
     },
-    {
+        {
       id: "p2",
+      title: "Ecomerce Web App",
+      desc: "Created a fast, user-friendly e-commerce site featuring secure checkout and dynamic product display.",
+      tags: ["React","Tailwin", "frame-motion", "Mongoose"],
+      link: "https://ecomerces-rouge.vercel.app",
+      repo: "https://github.com/sulaimonazeez/ecomerces",
+      image: "https://cdn.dribbble.com/userupload/9000437/file/original-05ce7878ecc282d0bdbc476f002b6087.png?resize=1200x900&vertical=center",
+    },
+    {
+      id: "p3",
       title: "Crypto Web App",
       desc: "React app that Allow Users to deposit and withdrawl crypto.",
       tags: ["React", "ServiceWorker", "IndexedDB", "Nodejs"],
@@ -134,8 +143,9 @@ export default function NeonPortfolio() {
       repo: "https://github.com/sulaimonazeez/xentrovest",
       image: "https://cdn.dribbble.com/userupload/30126030/file/original-db886942583416b54bf014b3db63f4f4.png?format=webp&resize=1000x750&vertical=center",
     },
+    
     {
-      id: "p3",
+      id: "p4",
       title: "Real-Time Chat Application (Django & React)",
       desc: "This is a modern, full-featured real-time chat application designed for seamless communication",
       tags: ["Reactjs", "MySql", "Django"],
@@ -144,7 +154,7 @@ export default function NeonPortfolio() {
       image: "https://cdn.dribbble.com/userupload/37006423/file/original-a49d1d73942481b4a19853333b1e845b.png?resize=1024x768&vertical=center",
     },
     {
-      id: "p4",
+      id: "p5",
       title: "Resume PDF Generator",
       desc: "Developed a scalable, full-stack application dedicated to automated resume and CV generation",
       tags: ["Django", "MongoDB", "Weasyprint"],
@@ -153,7 +163,7 @@ export default function NeonPortfolio() {
       image: "https://cdn.dribbble.com/userupload/17398686/file/original-1e7b4e06fb7a14c3c80561e5384fd170.jpg?resize=1024x768&vertical=center",
     },
         {
-      id: "p4",
+      id: "p6",
       title: "Bank Landing Page",
       desc: "Developed a scalable, High Animate HooBank Landing Page",
       tags: ["Reactjs", "css3"],
